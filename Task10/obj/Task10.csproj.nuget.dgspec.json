@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/andrew/Рабочий стол/Seminar2/Task10/Task10.csproj",
         "projectName": "Task10",
         "projectPath": "/home/andrew/Рабочий стол/Seminar2/Task10/Task10.csproj",
-        "packagesPath": "/home/andrew/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/andrew/Рабочий стол/Seminar2/Task10/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andrew/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
