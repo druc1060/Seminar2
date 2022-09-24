@@ -1,0 +1,15 @@
+/home/andrew/Рабочий стол/Seminar2/Task13/bin/Debug/net6.0/Task13
+/home/andrew/Рабочий стол/Seminar2/Task13/bin/Debug/net6.0/Task13.deps.json
+/home/andrew/Рабочий стол/Seminar2/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/home/andrew/Рабочий стол/Seminar2/Task13/bin/Debug/net6.0/Task13.dll
+/home/andrew/Рабочий стол/Seminar2/Task13/bin/Debug/net6.0/Task13.pdb
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.dll
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/refint/Task13.dll
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.pdb
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/home/andrew/Рабочий стол/Seminar2/Task13/obj/Debug/net6.0/ref/Task13.dll
